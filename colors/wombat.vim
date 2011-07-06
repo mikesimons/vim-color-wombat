@@ -4,6 +4,9 @@
 
 set background=dark
 
+" 256 colors ftw
+set t_Co=256
+
 hi clear
 
 if exists("syntax_on")
